@@ -1,5 +1,4 @@
 import { ActionType, Logger } from '../types/index.ts';
-import { beforeEach, describe, expect, it, vi } from 'vitest';
 
 import { OloLog } from './olo-log.ts';
 
